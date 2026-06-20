@@ -4,10 +4,6 @@ Premium mobile UI for choosing cars with swipe mechanics, built with React Nativ
 
 `Auto Swipe Luxury` is a concept app for a high-end automotive marketplace: users browse premium cars, swipe through offers, save favorites to a garage, and open detailed specs in a polished iOS-style interface.
 
-## Preview
-
-![Auto Swipe Luxury product preview](docs/preview.svg)
-
 ## Highlights
 
 - Tinder-like swipe flow for discovering cars
