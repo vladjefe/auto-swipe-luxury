@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+.claude/
+*.log
+*.pid
+preview-*.png
+dist/
